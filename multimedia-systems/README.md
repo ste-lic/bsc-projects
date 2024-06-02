@@ -1,8 +1,10 @@
 # multimedia-systems
+The following README file contains the exact documentation provided to my Professor for the last assignment of Multimedia Systems exam. It contains a little context/overview and a description of the making process.
+
 
 # Tools and Resources
 
-For the development of this video game, we will use **Unity**. This software serves as an IDE and includes the following tools:
+For the development of this video game, I used **Unity**. This software serves as an IDE and includes the following tools:
 - A graphics engine, which is the software core of a video game or any other application with real-time graphics. The basic functionalities typically provided by a graphics engine include a rendering engine ("renderer") for 2D and 3D graphics, a physics engine or collision detector, sound, scripting, animations, artificial intelligence, networking, and scene-graph.
 - Various windows depending on the functionalities, which speed up the development and testing phases of the product.
 
